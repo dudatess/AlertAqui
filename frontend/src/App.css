@@ -1,0 +1,10 @@
+/* Define o estilo para o contêiner principal */
+.map-container {
+  width: 100vw; /* Largura total da viewport */
+  height: 100vh; /* Altura total da viewport */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* Evita barras de rolagem desnecessárias */
+  background-color: #f5f5f5; /* Cor de fundo (opcional) */
+}
